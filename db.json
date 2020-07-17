@@ -1,17 +1,20 @@
 {
-	"friends": [
-	  {
-			"title": "Best Friends",
-			"friends": [
-				"suresh"
-			]
-		},
-		{
-			"title": "Friends",
-			"friends": [
-				"Sharath",
-				"Ashish"
-			]
-		}
-	]
+  "friends": [
+    {
+      "title": "Best Friends",
+      "friends": [
+        "Suresh",
+        "Pradeep"
+      ]
+    },
+    {
+      "title": "Friends",
+      "friends": [
+        "Sharath",
+        "Ashish",
+        "Aman",
+        "Karthik"
+      ]
+    }
+  ]
 }
