@@ -1,0 +1,17 @@
+{
+	"friendList": [
+	  {
+			"title": "Best Friends",
+			"friends": [
+				"suresh"
+			]
+		},
+		{
+			"title": "Best Friends",
+			"friends": [
+				"Sharath",
+				"Ashish"
+			]
+		}
+	]
+}
